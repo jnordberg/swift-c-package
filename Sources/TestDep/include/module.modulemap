@@ -1,0 +1,4 @@
+module TestDep {
+  header "test_dep.h"
+  export *
+}
